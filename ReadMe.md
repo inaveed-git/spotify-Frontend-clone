@@ -33,6 +33,7 @@ To run this project locally, follow these steps:
 
 1.Open the project directory:
 
+   ```bash
 cd spotify-web-player-clone
 
 2.Open the index.html file in a web browser.
