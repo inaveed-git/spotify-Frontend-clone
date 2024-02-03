@@ -27,13 +27,12 @@ This project is a web page designed to resemble the Spotify Web Player. It is a 
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/spotify-web-player-clone.git
+  
+   git clone https://github.com/inaveed-git/spotify-web-player-clone.git
 
 
 1.Open the project directory:
 
-   ```bash
 cd spotify-web-player-clone
 
 2.Open the index.html file in a web browser.
