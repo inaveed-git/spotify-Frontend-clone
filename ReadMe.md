@@ -31,6 +31,11 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/spotify-web-player-clone.git
 
 
+1.Open the project directory:
+
+cd spotify-web-player-clone
+
+2.Open the index.html file in a web browser.
 
 
 Usage
